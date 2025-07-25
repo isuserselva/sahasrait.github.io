@@ -22,6 +22,11 @@ defaults:
     values:
       layout: "team"
 
+logo:
+  desktop: "images/logo/logo.svg"
+  desktop_width: 120
+  desktop_height: 32
+  
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
